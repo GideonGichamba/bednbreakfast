@@ -35,6 +35,9 @@ button:hover {
     margin-bottom: 0;
     font-weight: 600;
 }
+.pd-l{
+    margin-right: 10px;
+}
 .filters h4 {
     margin-left: 15%;
     margin-top: 0;
